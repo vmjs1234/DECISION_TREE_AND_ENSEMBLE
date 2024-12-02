@@ -1,6 +1,8 @@
 1)-classic-gbm-scratch.ipynb
 https://colab.research.google.com/drive/1XY2IMMuB5rC8l47gH9RF1XpYHgDY4XIN?usp=sharing
 
+[Video Demo](https://drive.google.com/file/d/1fesOPbPnfe4k-FB6VLBxChWBBt3ORwA1/view?usp=sharing)
+
 2)-random_forest_scratch.ipynb
 https://colab.research.google.com/drive/1iM4kIIB14Bew4TH4LieAy9OZgO3zixB3?usp=sharing
 
